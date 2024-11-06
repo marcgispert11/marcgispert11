@@ -1,4 +1,7 @@
 ## Hi this is Marc 👋
+#  🔭 For the moment, im studing cybersecurity at Enti UB. I'm also learning Python.
+# Here you can find all my projects. Most of them are school assignments.
+
 ![clarence](https://github.com/user-attachments/assets/53a3980b-48d1-4365-b3ab-f6e6238635c8)
 
 <!--
