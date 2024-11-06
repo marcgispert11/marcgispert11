@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi this is Marc 👋
 ![clarence](https://github.com/user-attachments/assets/53a3980b-48d1-4365-b3ab-f6e6238635c8)
 
 <!--
@@ -6,7 +6,7 @@
 
 
 
-- 🔭 For the moment, im studing cybersecurity at Enti UB.
+ 🔭 For the moment, im studing cybersecurity at Enti UB.
 - 🌱 I’m also learning Python.
 - 👯 I’m looking to collaborate on cybersecurity and hacking projects. 
 - 📫 How to reach me: marc.gispert@enti.cat
