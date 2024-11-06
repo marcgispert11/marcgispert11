@@ -3,6 +3,7 @@
 # I'm also learning on my own, using docs.github.com.
 # 📫 You can contact me here: marc.gispert@enti.cat
 # Here you can find all my projects. Most of them are school assignments.
+# I'm also working on a website, but it's not aviable for the moment 🌱.
 
 ![clarence](https://github.com/user-attachments/assets/53a3980b-48d1-4365-b3ab-f6e6238635c8)
 
