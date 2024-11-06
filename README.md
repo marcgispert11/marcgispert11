@@ -2,6 +2,7 @@
 #  🔭 For the moment, im studing cybersecurity at Enti UB. 
 # I'm also learning on my own, using docs.github.com.
 # 📫 You can contact me here: marc.gispert@enti.cat
+# Languages: :es:
 # Here you can find all my projects. Most of them are school assignments.
 # I'm also working on a website, but it's not aviable for the moment 🌱.
 
