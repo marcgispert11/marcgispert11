@@ -1,5 +1,5 @@
-## Hi this is Marc 👋
-#  🔭 For the moment, im studing cybersecurity at Enti UB. 
+# Hi this is Marc 👋
+# 🔭 For the moment, im studing cybersecurity at Enti UB. 
 # 📖 I'm also learning on my own, using docs.github.com, W3schols, OverTheWire... 
 # 📫 You can contact me here: marc.gispert@enti.cat 📫
 # Languages: :es: :us: 
