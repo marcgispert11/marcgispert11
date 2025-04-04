@@ -1,6 +1,6 @@
 ## Wssup
 
-Just a tech
+Just a tech enthusiast showcasing skills and projects.
 
 ## Skills & Technologies
 
@@ -11,28 +11,27 @@ Just a tech
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ## Top Projects
 
 - [marcgispert11.github.io](https://github.com/marcgispert11/marcgispert11.github.io)  
   A personal website showcasing my projects and skills.  
   ⭐️ 0 stars | Language: HTML  
-  Forks: 0 | Open Issues: 0  
+  Forks: 0 | Open Issues: 0
 
 - [cyber_m01uf2](https://github.com/marcgispert11/cyber_m01uf2)  
   Exercise repository for Cybersecurity Systems (2024-2025).  
   ⭐️ 0 stars | Language: Shell  
-  Forks: 0 | Open Issues: 0  
+  Forks: 0 | Open Issues: 0
 
 - [RepasoC-](https://github.com/marcgispert11/RepasoC-)  
   Repository containing all C++ exercises done in class.  
   ⭐️ 0 stars | Language: C++  
-  Forks: 0 | Open Issues: 0  
+  Forks: 0 | Open Issues: 0
 
 - [Repas_SQLi](https://github.com/marcgispert11/Repas_SQLi)  
   A collection of SQL injection exercises.  
   ⭐️ 0 stars | Language: C++  
-  Forks: 0 | Open Issues: 0  
+  Forks: 0 | Open Issues: 0
 
 - [Exercicis-Rep-s-C-](https://github.com/marcgispert11/Exercicis-Rep-s-C-)  
   This repository collects C++ exercises done in class and at home.  
@@ -47,16 +46,5 @@ Just a tech
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcgispert11&show_icons=true&theme=radical)
 
-## Recent Activity
 
-- **April 1, 2025:** Pushed updates to [marcgispert11.github.io](https://github.com/marcgispert11/marcgispert11.github.io) - Implemented Light-Mode.  
-- **March 30, 2025:** Updated [cyber_m01uf2](https://github.com/marcgispert11/cyber_m01uf2) - Fixed errors and updated client.sh.  
-- **March 27, 2025:** Updated [marcgispert11.github.io](https://github.com/marcgispert11/marcgispert11.github.io) - Web and contact updates.
 
-## Latest Blog Posts
-
-Currently, I do not have any blog posts. Stay tuned for updates :)
-
-## Connect with Me
-
-For the moment, you can't
