@@ -44,6 +44,7 @@ Just a tech enthusiast showcasing skills and projects.
 👥 I am following **3** users.  
 👥 I have **2** followers.  
 
+![Snake animation](https://github.com/marcgispert11/marcgispert11/blob/output/snake.svg)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcgispert11&show_icons=true&theme=radical)
 
 
