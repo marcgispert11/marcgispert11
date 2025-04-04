@@ -2,6 +2,8 @@
 
 Just a tech.
 
+<img src="assets/gang.gif" alt="gang gif" width="50%">
+
 ## Skills & Technologies
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -43,8 +45,6 @@ Just a tech.
 🔭 I have **9** public repositories.  
 👥 I am following **3** users.  
 👥 I have **2** followers.  
-
-![gang](/gang.gif)
 
 ## Gotta feed the snake!
 ![Snake animation](https://github.com/marcgispert11/marcgispert11/blob/output/snake.svg)
