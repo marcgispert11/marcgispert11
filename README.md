@@ -1,12 +1,62 @@
-# Hi this is Marc 👋
-# 🔭 For the moment, im studing cybersecurity at Enti UB. 
-# 📖 I'm also learning on my own, using docs.github.com, W3schols, OverTheWire... 
-# 📫 You can contact me here: marc.gispert@enti.cat 📫
-# Languages: :es: :us: 
-# Here you can find all my projects. Most of them are school assignments.
-# I'm also working on a website, but it's not available for the moment 🌱.
+## Wssup
 
-![clarence](https://github.com/user-attachments/assets/53a3980b-48d1-4365-b3ab-f6e6238635c8)
+Just a tech
 
-<!--
-**marcgispert11/marcgispert11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills & Technologies
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+## Top Projects
+
+- [marcgispert11.github.io](https://github.com/marcgispert11/marcgispert11.github.io)  
+  A personal website showcasing my projects and skills.  
+  ⭐️ 0 stars | Language: HTML  
+  Forks: 0 | Open Issues: 0  
+
+- [cyber_m01uf2](https://github.com/marcgispert11/cyber_m01uf2)  
+  Exercise repository for Cybersecurity Systems (2024-2025).  
+  ⭐️ 0 stars | Language: Shell  
+  Forks: 0 | Open Issues: 0  
+
+- [RepasoC-](https://github.com/marcgispert11/RepasoC-)  
+  Repository containing all C++ exercises done in class.  
+  ⭐️ 0 stars | Language: C++  
+  Forks: 0 | Open Issues: 0  
+
+- [Repas_SQLi](https://github.com/marcgispert11/Repas_SQLi)  
+  A collection of SQL injection exercises.  
+  ⭐️ 0 stars | Language: C++  
+  Forks: 0 | Open Issues: 0  
+
+- [Exercicis-Rep-s-C-](https://github.com/marcgispert11/Exercicis-Rep-s-C-)  
+  This repository collects C++ exercises done in class and at home.  
+  ⭐️ 0 stars | Language: C++  
+  Forks: 0 | Open Issues: 0
+
+## GitHub Stats
+
+🔭 I have **9** public repositories.  
+👥 I am following **3** users.  
+👥 I have **2** followers.  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcgispert11&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- **April 1, 2025:** Pushed updates to [marcgispert11.github.io](https://github.com/marcgispert11/marcgispert11.github.io) - Implemented Light-Mode.  
+- **March 30, 2025:** Updated [cyber_m01uf2](https://github.com/marcgispert11/cyber_m01uf2) - Fixed errors and updated client.sh.  
+- **March 27, 2025:** Updated [marcgispert11.github.io](https://github.com/marcgispert11/marcgispert11.github.io) - Web and contact updates.
+
+## Latest Blog Posts
+
+Currently, I do not have any blog posts. Stay tuned for updates :)
+
+## Connect with Me
+
+For the moment, you can't
