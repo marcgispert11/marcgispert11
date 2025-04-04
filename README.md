@@ -1,6 +1,6 @@
 ## Wssup
 
-Just a tech enthusiast showcasing skills and projects.
+Just a tech.
 
 ## Skills & Technologies
 
