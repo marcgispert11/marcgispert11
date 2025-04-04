@@ -44,7 +44,7 @@ Just a tech.
 👥 I am following **3** users.  
 👥 I have **2** followers.  
 
-![gang](/gang.webp)
+![gang](/gang.gif)
 
 ## Gotta feed the snake!
 ![Snake animation](https://github.com/marcgispert11/marcgispert11/blob/output/snake.svg)
